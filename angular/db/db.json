@@ -1,0 +1,39 @@
+{
+  "jobseeker": [
+    {
+      "id": 1,
+      "name": "Tunisha Ujawane",
+      "address": "Pune",
+      "email": "tunishaujawane@job.com",
+      "Number": "1234567890"
+    },
+    {
+      "id": 2,
+      "name": "Gauri Ujawane",
+      "address": "Mumbai",
+      "email": "gauriujawane@job.com",
+      "Number": "0987654321"
+    },
+    {
+      "name": "Sanket Raut",
+      "address": "Chandrapur",
+      "email": "sanketraut@job.com",
+      "Number": "1122334455",
+      "id": 3
+    },
+    {
+      "name": "pooja",
+      "address": "pune",
+      "email": "pooja@jobs.com",
+      "Number": "",
+      "id": 4
+    },
+    {
+      "name": "Lakshita",
+      "address": "banglore",
+      "email": "lakshita@jobs.com",
+      "Number": 987654321,
+      "id": 5
+    }
+  ]
+}
